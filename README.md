@@ -1,4 +1,4 @@
-#JAPON
+# JAPON
 
 Oracle removed support for JNLP applications in Java11.
 
