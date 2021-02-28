@@ -1,4 +1,4 @@
-Oracle removed support for JNLP applications, I think Java11 no longer executes those files.
+Oracle removed support for JNLP applications in Java11.
 
 Why? Their reasons would have and I suppose they will be documented, but I neither know nor have I looked for them. In any case, if Oracle says no, it's not.
 
@@ -9,6 +9,6 @@ How it works?
 JAPON enables an application to be launched on a client desktop by using resources that are hosted on web servers.
 Those resources will be downloaded to the client computer the first time and stored in a cache. The next times that resource is needed it will not be downloaded unless it has been updated.
 
-The program generates an executable jar, and clients can execute it with a double click. They don't need to install any additional software.
+The program generates an small (about 18Kb) executable jar file, and clients can execute it with a double click. They don't need to install any additional software. This jar file makes the same job as Java Web Start.
 
 If you are interested in using it, write me an email.
