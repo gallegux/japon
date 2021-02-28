@@ -1,3 +1,5 @@
+#JAPON
+
 Oracle removed support for JNLP applications in Java11.
 
 Why? Their reasons would have and I suppose they will be documented, but I neither know nor have I looked for them. In any case, if Oracle says no, it's not.
